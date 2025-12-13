@@ -1,0 +1,5 @@
+# --- Block all NumPy arrays ---
+*.npy
+
+# --- Block all text files ---
+*.txt
